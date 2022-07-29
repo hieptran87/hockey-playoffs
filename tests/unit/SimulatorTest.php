@@ -48,7 +48,7 @@ class SimulatorTest extends TestCase
     }
 
     /**
-     * Test the set/getValue() method.
+     * Test the Simulate method.
      *
      * @return void
      */
