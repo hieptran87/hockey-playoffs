@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . '/../vendor/autoload.php';
+use Symfony\Component\Console\Application; 
+use O2Web\HockeyPlayoffs\Console\SimulatorCommand;
+
+$app = new Application('Hockey Playoffs Console App', 'v1.0.0');
+
+$app->add(new SimulatorCommand());
+
+$app->run();

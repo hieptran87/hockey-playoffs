@@ -1,0 +1,1 @@
+{"version":1,"defects":{"O2Web\\HockeyPlayoffs\\SimulatorTest::testGetValueWithNumber":4,"O2Web\\HockeyPlayoffs\\SimulatorTest::testSimulate":4},"times":{"O2Web\\HockeyPlayoffs\\SimulatorTest::testGetValueWithNumber":0.002,"O2Web\\HockeyPlayoffs\\SimulatorTest::testSimulate":0.004}}
