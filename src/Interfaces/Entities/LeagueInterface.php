@@ -3,7 +3,7 @@
 /**
  * O2Web\HockeyPlayoffs\Interfaces\Entities\LeagueInterface
  *
- * PHP version 7,8
+ * PHP version 8,8
  *
  * @author    Hiep Tran <tranquyhiep87@gmail.com>
  * @copyright 2022 O2Web <info@o2web.com>

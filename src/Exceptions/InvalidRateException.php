@@ -3,7 +3,7 @@
 /**
  * O2Web\HockeyPlayoffs\Exceptions\InvalidRateException
  *
- * PHP version 7
+ * PHP version 8
  *
  * @author    Hiep Tran <tranquyhiep87@gmail.com>
  * @copyright 2022 O2Web <info@o2web.ca>
